@@ -8,7 +8,7 @@ Multiple Full-Stack Web Applications with slightly different stacks...
 I did hate the template but currently do not have the time to create fancy gifs and a tasty markdown, so tables it is.
 
 
-## I’m currently learning ...
+## Things I work with all the time
 
 | language  | why i choose to learn it   | 
 |-------------- | -------------- | 
